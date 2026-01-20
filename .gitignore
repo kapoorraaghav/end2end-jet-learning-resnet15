@@ -1,0 +1,11 @@
+# datasets
+data/
+
+# trained models
+models/
+*.h5
+*.h5py
+
+# python / notebook junk
+__pycache__/
+.ipynb_checkpoints/
